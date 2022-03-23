@@ -1,5 +1,5 @@
 # Tutorial: Parallel processing, mutiple variables and break statement
-This example shows how to use Python's parallel processing with multivariate functions and a break condition. In the example we pretend to be solving a 6 digit code. The search for the code is parallelized and breaks once the correct code is found. 
+This example shows how to use Python's parallel processing with multivariate functions and a break condition. In the example we pretend to be cracking a 6 digit code. The search for the code is parallelized and breaks once the correct code is found. 
 
 ## Walkthrough
 As commonly, we first import the relevant libraries. It turns out that this simple example requires only one, the multiprocessing library which we import as follows:
